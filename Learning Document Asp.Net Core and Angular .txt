@@ -303,4 +303,24 @@ set photo in nav bar
 
 Using BehaviourSubject 
 subject is type of observeable and it allow get to get value with out subscribe it and also alow to set vaule
+
 Any to any component 
+
+Photo upload functionality summary
+Where to save photo
+Create photo controller 
+Ng2 file upload 
+Set photo as main 
+Array filter and splice function
+many to many communication
+
+Enhancing Registration form
+To solve data error we use ngx bootstrap datepicker for consistant expirence
+
+Action Filter and Time Ago pipe 
+
+we can install timeagopipe for time ago functionality in app for lastactive 
+Action Filter can execute code before executing action and after executing action 
+we implement IAsyncActionFilter and user next method to get actionexecutedcontext and use this to get values and services 
+then we add that filter to services in startup class and 
+we use ServiceFilter Attribute to use that filter	
